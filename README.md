@@ -6,9 +6,7 @@ Experience gained with: HTML, CSS; arrays, matrices, objects, classes functions 
 
 Skills obtained: Advanced knowledge of JavaScript.
 
-Course info: 2 months (17 May - 11 July 2022), 3-hour-long classes four times + graded homework. Some of the problems solved are found above.
-
-Previous courses: 1 - "Python for Everybody" by University of Michigan. 5 simple introductory courses over February, March, and April 2021.
+Other courses: 1 - "Python for Everybody" by University of Michigan. 5 simple introductory courses over February, March, and April 2021.
 
 2 - "Programming Basics with Python" by SoftUni. The official beginning of my education with SoftUni. July - September 2021. Final Grade: "6/6".
 
@@ -18,4 +16,6 @@ Previous courses: 1 - "Python for Everybody" by University of Michigan. 5 simple
 
 5 - "Python OOP" by SoftUni. Feb - April 2022. Final Grade: "5.67/6".
 
-6 - "JavaScript Advanced" by SoftUni. Final Grade: "6/6". See Above.
+6 - "JavaScript Advanced" by SoftUni. May - July 2022. Final Grade: "6/6". See above.
+
+7 - "JavaScript Applications" by SoftUni. Final Grade: "6/6". 
